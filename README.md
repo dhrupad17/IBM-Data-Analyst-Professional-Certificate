@@ -1,2 +1,9 @@
 # IBM-Data-Analyst-Professional-Certificate
-Prepare for a career as a data analyst. Build job-ready skills – and must-have AI skills – for an in-demand career. Earn a credential from IBM. No prior experience required.
+
+<table>
+  <tr>
+    <td>Course 1</td>
+    <td>Introduction to Data Analytics </td>
+    <td><img src="https://github.com/user-attachments/assets/516bb77b-a869-44f5-84ba-94b7f1c4965c" width="500" height="500"</td>
+  </tr>
+</table>
