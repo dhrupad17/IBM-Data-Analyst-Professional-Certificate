@@ -16,4 +16,9 @@
     <td>Data Visualization and Dashboards with Excel and Cognos</td>
     <td><img src="https://github.com/user-attachments/assets/e8032e15-555f-456f-887b-235813404c2c" width="300" height="300"</td>
   </tr>
+  <tr>
+    <td>Course 5</td>
+    <td>Python Project for Data Science</td>
+    <td><img src="https://github.com/user-attachments/assets/f367323e-1565-4e7e-bf14-d5fc43d9264a" width="300" height="300"</td>
+  </tr>
 </table>
