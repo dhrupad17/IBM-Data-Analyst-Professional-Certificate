@@ -1,0 +1,15 @@
+Store the dataset in a Table
+=============================
+import pandas
+df=pandas.read_csv("file.csv")
+
+df.to_sql("TABLE NAME", con, if_exists='replace', index=False, method="multi")
+
+# type in your query to retrieve list of all tables in the database
+%sql SELECT name FROM sqlite_master WHERE type='table'
+
+# type in your query to retrieve the number of columns in the SCHOOLS table
+%sql SELECT COUNT(name) FROM PRAGMA_TABLE_INFO('TABLE NAME');
+
+# type in your query to retrieve all column names in the SCHOOLS table along with their datatypes and length
+%sql SELECT name,type,length(name) FROM PRAGMA_TABLE_INFO('TABLE NAME');
